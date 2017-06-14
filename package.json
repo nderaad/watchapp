@@ -15,5 +15,10 @@
   "bugs": {
     "url": "https://github.com/nderaad/watchapp/issues"
   },
-  "homepage": "https://github.com/nderaad/watchapp#readme"
+  "homepage": "https://github.com/nderaad/watchapp#readme",
+  "dependencies": {
+    "ejs": "^2.5.6",
+    "express": "^4.15.3",
+    "request": "^2.81.0"
+  }
 }
